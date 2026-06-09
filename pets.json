@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Bruno",
+    "type": "Dog",
+    "breed": "Labrador Retriever",
+    "age": 2,
+    "price": 8000,
+    "seller": "Rahul Sharma",
+    "location": "Delhi",
+    "image": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=600&auto=format&fit=crop",
+    "description": "Bruno is a very friendly and playful Labrador. He loves to run, play fetch and swim. He is fully vaccinated, dewormed and in perfect health. Bruno is great with kids and loves being around family. He has been trained for basic commands like sit, stay and come."
+  },
+  {
+    "id": 2,
+    "name": "Rocky",
+    "type": "Dog",
+    "breed": "German Shepherd",
+    "age": 3,
+    "price": 12000,
+    "seller": "Amit Verma",
+    "location": "Mumbai",
+    "image": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=600&auto=format&fit=crop",
+    "description": "Rocky is a strong and intelligent German Shepherd. He is very loyal, protective and obedient. He has been trained professionally and is great for home security. All vaccinations are up to date. Rocky is healthy and full of energy."
+  },
+  {
+    "id": 3,
+    "name": "Max",
+    "type": "Dog",
+    "breed": "Golden Retriever",
+    "age": 1,
+    "price": 15000,
+    "seller": "Priya Singh",
+    "location": "Bangalore",
+    "image": "https://images.unsplash.com/photo-1601979031925-424e53b6caaa?w=600&auto=format&fit=crop",
+    "description": "Max is an adorable Golden Retriever puppy who loves to cuddle and play. He has a very calm and gentle personality. Max is vaccinated and microchipped. He gets along well with other pets and children. Perfect for a loving home."
+  },
+  {
+    "id": 4,
+    "name": "Whiskers",
+    "type": "Cat",
+    "breed": "Persian",
+    "age": 1,
+    "price": 5000,
+    "seller": "Neha Gupta",
+    "location": "Pune",
+    "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=600&auto=format&fit=crop",
+    "description": "Whiskers is a calm and adorable Persian cat with long silky fur. She loves sleeping in cozy spots and sitting on laps. Very clean, well-groomed and litter trained. Whiskers is perfect for apartment living. She is vaccinated and in great health."
+  },
+  {
+    "id": 5,
+    "name": "Tiger",
+    "type": "Cat",
+    "breed": "Bengal",
+    "age": 2,
+    "price": 7000,
+    "seller": "Sanjay Mehta",
+    "location": "Hyderabad",
+    "image": "https://images.unsplash.com/photo-1561948955-570b270e7c36?w=600&auto=format&fit=crop",
+    "description": "Tiger is a beautiful Bengal cat with striking spotted fur. He is very energetic, playful and loves to climb and explore. Tiger needs an active owner who can give him plenty of attention and playtime. He is vaccinated and very healthy."
+  },
+  {
+    "id": 6,
+    "name": "Luna",
+    "type": "Cat",
+    "breed": "Siamese",
+    "age": 1,
+    "price": 6000,
+    "seller": "Pooja Patel",
+    "location": "Ahmedabad",
+    "image": "https://images.unsplash.com/photo-1596854407944-bf87f6fdd49e?w=600&auto=format&fit=crop",
+    "description": "Luna is a gorgeous Siamese cat with bright blue eyes. She is very affectionate, talkative and loves human company. Luna will follow you around the house and always wants to be near you. She is vaccinated, spayed and perfectly healthy."
+  },
+  {
+    "id": 7,
+    "name": "Mango",
+    "type": "Bird",
+    "breed": "Macaw",
+    "age": 1,
+    "price": 18000,
+    "seller": "Vikram Reddy",
+    "location": "Chennai",
+    "image": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=600&auto=format&fit=crop",
+    "description": "Mango is a colorful and talkative Macaw parrot. He can say several words and loves to sing. Mango is very intelligent and social. He enjoys music, interaction and learning new tricks. A truly entertaining and lively companion bird."
+  },
+  {
+    "id": 8,
+    "name": "Kiwi",
+    "type": "Bird",
+    "breed": "Cockatiel",
+    "age": 1,
+    "price": 3500,
+    "seller": "Anjali Joshi",
+    "location": "Jaipur",
+    "image": "https://images.unsplash.com/photo-1591198936750-16d8e15eef34?w=600&auto=format&fit=crop",
+    "description": "Kiwi is a sweet and friendly Cockatiel who loves to whistle and chirp. He is very tame and comfortable sitting on your shoulder. Kiwi is hand-raised so he is very friendly with humans. Perfect for first-time bird owners. Easy to care for."
+  },
+  {
+    "id": 9,
+    "name": "Sunny",
+    "type": "Bird",
+    "breed": "Lovebird",
+    "age": 1,
+    "price": 2500,
+    "seller": "Ravi Kumar",
+    "location": "Lucknow",
+    "image": "https://images.unsplash.com/photo-1444464666168-49d633b86797?w=600&auto=format&fit=crop",
+    "description": "Sunny is a bright and cheerful Lovebird with beautiful green and yellow feathers. He is very active, playful and loves to interact. Lovebirds are known for their affectionate nature. Sunny is a hand-tamed bird and very comfortable with people."
+  }
+]
