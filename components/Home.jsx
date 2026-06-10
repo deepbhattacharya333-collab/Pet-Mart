@@ -93,23 +93,23 @@ function Home() {
           {/* Big image — Dog */}
           <div className="hero-img-box">
             <img
-              src="https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&auto=format&fit=crop"
+              src="https://images.unsplash.com/photo-1629956737374-f012cb3e875f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Happy dog"
             />
           </div>
 
-          {/* Small image — Cat */}
+          {/* Small image — Dog (updated to match the dog photo) */}
           <div className="hero-img-box">
             <img
-              src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=400&auto=format&fit=crop"
-              alt="Cute cat"
+              src="https://plus.unsplash.com/premium_photo-1673967831980-1d377baaded2?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              alt="Happy dog"
             />
           </div>
 
           {/* Small image — Bird */}
           <div className="hero-img-box">
             <img
-              src="https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=400&auto=format&fit=crop"
+              src="https://images.unsplash.com/photo-1606071548917-78ed9809141f?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Colorful bird"
             />
           </div>
