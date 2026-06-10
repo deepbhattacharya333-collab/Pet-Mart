@@ -4,7 +4,7 @@
 import React, { useState, useEffect } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import PetCard from './PetCard.jsx'
-import petsData from './pets.json'
+import petsData from '../pets.json'
 
 function Home() {
   const navigate = useNavigate()

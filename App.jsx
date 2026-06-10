@@ -5,16 +5,16 @@ import React, { useState } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 // Import all pages
-import Home       from './Home.jsx'
-import About      from './About.jsx'
-import Pets       from './Pets.jsx'
-import PetDetails from './PetDetails.jsx'
-import SellPet    from './SellPet.jsx'
-import Login      from './Login.jsx'
-import Register   from './Register.jsx'
+import Home       from './components/Home.jsx'
+import About      from './components/About.jsx'
+import Pets       from './components/Pets.jsx'
+import PetDetails from './components/PetDetails.jsx'
+import SellPet    from './components/SellPet.jsx'
+import Login      from './components/Login.jsx'
+import Register   from './components/Register.jsx'
 
 // Import the Navbar component (shown on every page)
-import Navbar from './Navbar.jsx'
+import Navbar from './components/Navbar.jsx'
 
 // Import global CSS styles
 import './App.css'

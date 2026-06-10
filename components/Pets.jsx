@@ -4,7 +4,7 @@
 
 import React, { useState, useEffect } from 'react'
 import PetCard from './PetCard.jsx'
-import petsData from './pets.json'   // seed pets from JSON file
+import petsData from '../pets.json'   // seed pets from JSON file
 
 function Pets() {
 

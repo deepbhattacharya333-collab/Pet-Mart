@@ -4,7 +4,7 @@
 
 import React from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
-import petsData from './pets.json'
+import petsData from '../pets.json'
 
 function PetDetails() {
 
